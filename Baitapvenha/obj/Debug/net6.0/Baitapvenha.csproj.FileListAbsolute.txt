@@ -1,0 +1,15 @@
+C:\DEV\Baitapvenha\bin\Debug\net6.0\Baitapvenha.exe
+C:\DEV\Baitapvenha\bin\Debug\net6.0\Baitapvenha.deps.json
+C:\DEV\Baitapvenha\bin\Debug\net6.0\Baitapvenha.runtimeconfig.json
+C:\DEV\Baitapvenha\bin\Debug\net6.0\Baitapvenha.dll
+C:\DEV\Baitapvenha\bin\Debug\net6.0\Baitapvenha.pdb
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.csproj.AssemblyReference.cache
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.AssemblyInfoInputs.cache
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.AssemblyInfo.cs
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.csproj.CoreCompileInputs.cache
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.dll
+C:\DEV\Baitapvenha\obj\Debug\net6.0\refint\Baitapvenha.dll
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.pdb
+C:\DEV\Baitapvenha\obj\Debug\net6.0\Baitapvenha.genruntimeconfig.cache
+C:\DEV\Baitapvenha\obj\Debug\net6.0\ref\Baitapvenha.dll

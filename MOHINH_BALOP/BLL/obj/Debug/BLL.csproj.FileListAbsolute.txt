@@ -1,0 +1,11 @@
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\BLL.dll
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\BLL.pdb
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\DAL.dll
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\DTO.dll
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\DAL.pdb
+C:\DEV\MOHINH_BALOP\BLL\bin\Debug\DTO.pdb
+C:\DEV\MOHINH_BALOP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\DEV\MOHINH_BALOP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\DEV\MOHINH_BALOP\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\DEV\MOHINH_BALOP\BLL\obj\Debug\BLL.dll
+C:\DEV\MOHINH_BALOP\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,15 @@
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.csproj.AssemblyReference.cache
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.AssemblyInfoInputs.cache
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.AssemblyInfo.cs
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.csproj.CoreCompileInputs.cache
+C:\DEV\LAP_TUAN1\bin\Debug\net6.0\LAP_TUAN1.exe
+C:\DEV\LAP_TUAN1\bin\Debug\net6.0\LAP_TUAN1.deps.json
+C:\DEV\LAP_TUAN1\bin\Debug\net6.0\LAP_TUAN1.runtimeconfig.json
+C:\DEV\LAP_TUAN1\bin\Debug\net6.0\LAP_TUAN1.dll
+C:\DEV\LAP_TUAN1\bin\Debug\net6.0\LAP_TUAN1.pdb
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.dll
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\refint\LAP_TUAN1.dll
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.pdb
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\LAP_TUAN1.genruntimeconfig.cache
+C:\DEV\LAP_TUAN1\obj\Debug\net6.0\ref\LAP_TUAN1.dll

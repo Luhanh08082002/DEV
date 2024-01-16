@@ -1,4 +1,4 @@
-#include "stdafx.h"
+﻿#include "stdafx.h"
 #include "BulletObject.h"
 
 BulletObject::BulletObject()
@@ -28,6 +28,9 @@ void BulletObject::LoadImgBullet(SDL_Renderer* des)
 }
 void BulletObject::handleMove(const int& x_border, const int& y_border)
 {
+
+	// x_val là vận tốc đạn di chuyên 
+	// x_border là khoản mà đạn đc di chuyển
 	if (bullet_dir_ == DIR_RIGHT)
 	{
 		rect_.x += x_val_;

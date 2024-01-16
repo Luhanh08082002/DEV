@@ -1,0 +1,3 @@
+C:\DEV\AutomobileSolution\AutomobileWPFApp\obj\Debug\AutomobileWPFApp.csproj.AssemblyReference.cache
+C:\DEV\AutomobileSolution\AutomobileWPFApp\obj\Debug\App.g.cs
+C:\DEV\AutomobileSolution\AutomobileWPFApp\obj\Debug\AutomobileWPFApp_MarkupCompile.cache

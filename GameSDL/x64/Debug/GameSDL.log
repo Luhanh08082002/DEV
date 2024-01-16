@@ -1,20 +1,4 @@
-﻿  TheatsObject.cpp
+﻿  BulletObject.cpp
 C:\DEV\GameSDL\CommonFunc.h(48,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
 C:\DEV\GameSDL\CommonFunc.h(60,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
-C:\DEV\GameSDL\TheatsObject.cpp(88,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(89,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(107,33): warning C4305: '+=': truncation from 'double' to 'float'
-C:\DEV\GameSDL\TheatsObject.cpp(167,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(168,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(170,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(171,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(193,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(208,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(220,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(221,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(223,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(224,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(235,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(252,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\DEV\GameSDL\TheatsObject.cpp(267,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   GameSDL.vcxproj -> C:\DEV\GameSDL\x64\Debug\GameSDL.exe

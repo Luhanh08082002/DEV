@@ -1,0 +1,15 @@
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.csproj.AssemblyReference.cache
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.AssemblyInfoInputs.cache
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.AssemblyInfo.cs
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.csproj.CoreCompileInputs.cache
+C:\DEV\BT_tailop_13_09\bin\Debug\net6.0\BATTAP_TAILOp.exe
+C:\DEV\BT_tailop_13_09\bin\Debug\net6.0\BATTAP_TAILOp.deps.json
+C:\DEV\BT_tailop_13_09\bin\Debug\net6.0\BATTAP_TAILOp.runtimeconfig.json
+C:\DEV\BT_tailop_13_09\bin\Debug\net6.0\BATTAP_TAILOp.dll
+C:\DEV\BT_tailop_13_09\bin\Debug\net6.0\BATTAP_TAILOp.pdb
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.dll
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\refint\BATTAP_TAILOp.dll
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.pdb
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BATTAP_TAILOp.genruntimeconfig.cache
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\ref\BATTAP_TAILOp.dll

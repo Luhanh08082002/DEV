@@ -1,0 +1,5 @@
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BT_tailop_13_09.csproj.AssemblyReference.cache
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BT_tailop_13_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BT_tailop_13_09.AssemblyInfoInputs.cache
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BT_tailop_13_09.AssemblyInfo.cs
+C:\DEV\BT_tailop_13_09\obj\Debug\net6.0\BT_tailop_13_09.csproj.CoreCompileInputs.cache

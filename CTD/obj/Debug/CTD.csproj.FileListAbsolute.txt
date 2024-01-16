@@ -1,0 +1,6 @@
+C:\DEV\CTD\obj\Debug\CTD.csproj.AssemblyReference.cache
+C:\DEV\CTD\obj\Debug\CTD.csproj.CoreCompileInputs.cache
+C:\DEV\CTD\bin\Debug\CTD.exe
+C:\DEV\CTD\bin\Debug\CTD.pdb
+C:\DEV\CTD\obj\Debug\CTD.exe
+C:\DEV\CTD\obj\Debug\CTD.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetnoiCSDL", "KetnoiCSDL.csproj", "{D974E3A7-DC6B-44C5-A9FC-F380C7852943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "..\GUI\GUI.csproj", "{05696347-C34E-48D5-9053-CE3B222AB3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D974E3A7-DC6B-44C5-A9FC-F380C7852943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D974E3A7-DC6B-44C5-A9FC-F380C7852943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D974E3A7-DC6B-44C5-A9FC-F380C7852943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D974E3A7-DC6B-44C5-A9FC-F380C7852943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05696347-C34E-48D5-9053-CE3B222AB3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05696347-C34E-48D5-9053-CE3B222AB3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05696347-C34E-48D5-9053-CE3B222AB3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05696347-C34E-48D5-9053-CE3B222AB3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEC268A-7D7B-4D7B-9959-BCCFB7F75929}
+	EndGlobalSection
+EndGlobal

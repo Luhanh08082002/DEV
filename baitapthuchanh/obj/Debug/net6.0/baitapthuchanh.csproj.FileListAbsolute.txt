@@ -1,0 +1,5 @@
+C:\DEV\baitapthuchanh\obj\Debug\net6.0\baitapthuchanh.csproj.AssemblyReference.cache
+C:\DEV\baitapthuchanh\obj\Debug\net6.0\baitapthuchanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\baitapthuchanh\obj\Debug\net6.0\baitapthuchanh.AssemblyInfoInputs.cache
+C:\DEV\baitapthuchanh\obj\Debug\net6.0\baitapthuchanh.AssemblyInfo.cs
+C:\DEV\baitapthuchanh\obj\Debug\net6.0\baitapthuchanh.csproj.CoreCompileInputs.cache

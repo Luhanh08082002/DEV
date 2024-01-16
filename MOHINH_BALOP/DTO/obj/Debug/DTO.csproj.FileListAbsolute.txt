@@ -1,0 +1,6 @@
+C:\DEV\MOHINH_BALOP\DTO\bin\Debug\DTO.dll
+C:\DEV\MOHINH_BALOP\DTO\bin\Debug\DTO.pdb
+C:\DEV\MOHINH_BALOP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\DEV\MOHINH_BALOP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\DEV\MOHINH_BALOP\DTO\obj\Debug\DTO.dll
+C:\DEV\MOHINH_BALOP\DTO\obj\Debug\DTO.pdb

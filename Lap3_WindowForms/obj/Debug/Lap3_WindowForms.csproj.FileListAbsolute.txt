@@ -1,0 +1,11 @@
+C:\DEV\Lap3_WindowForms\bin\Debug\Lap3_WindowForms.exe
+C:\DEV\Lap3_WindowForms\bin\Debug\Lap3_WindowForms.pdb
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.csproj.AssemblyReference.cache
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.Form1.resources
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.Properties.Resources.resources
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.csproj.GenerateResource.cache
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.csproj.CoreCompileInputs.cache
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.exe
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.pdb
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.Form2.resources
+C:\DEV\Lap3_WindowForms\obj\Debug\Lap3_WindowForms.Form3.resources

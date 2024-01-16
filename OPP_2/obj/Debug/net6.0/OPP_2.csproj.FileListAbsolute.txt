@@ -1,0 +1,15 @@
+C:\DEV\OPP_2\bin\Debug\net6.0\OPP_2.exe
+C:\DEV\OPP_2\bin\Debug\net6.0\OPP_2.deps.json
+C:\DEV\OPP_2\bin\Debug\net6.0\OPP_2.runtimeconfig.json
+C:\DEV\OPP_2\bin\Debug\net6.0\OPP_2.dll
+C:\DEV\OPP_2\bin\Debug\net6.0\OPP_2.pdb
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.csproj.AssemblyReference.cache
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.AssemblyInfoInputs.cache
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.AssemblyInfo.cs
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.csproj.CoreCompileInputs.cache
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.dll
+C:\DEV\OPP_2\obj\Debug\net6.0\refint\OPP_2.dll
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.pdb
+C:\DEV\OPP_2\obj\Debug\net6.0\OPP_2.genruntimeconfig.cache
+C:\DEV\OPP_2\obj\Debug\net6.0\ref\OPP_2.dll

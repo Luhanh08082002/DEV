@@ -1,0 +1,15 @@
+C:\DEV\BT_TAILOP\bin\Debug\net6.0\BT_TAILOP.exe
+C:\DEV\BT_TAILOP\bin\Debug\net6.0\BT_TAILOP.deps.json
+C:\DEV\BT_TAILOP\bin\Debug\net6.0\BT_TAILOP.runtimeconfig.json
+C:\DEV\BT_TAILOP\bin\Debug\net6.0\BT_TAILOP.dll
+C:\DEV\BT_TAILOP\bin\Debug\net6.0\BT_TAILOP.pdb
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.csproj.AssemblyReference.cache
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.AssemblyInfoInputs.cache
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.AssemblyInfo.cs
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.csproj.CoreCompileInputs.cache
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.dll
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\refint\BT_TAILOP.dll
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.pdb
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\BT_TAILOP.genruntimeconfig.cache
+C:\DEV\BT_TAILOP\obj\Debug\net6.0\ref\BT_TAILOP.dll

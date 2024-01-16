@@ -1,0 +1,9 @@
+C:\DEV\KetnoiCSDL\bin\Debug\KetnoiCSDL.exe
+C:\DEV\KetnoiCSDL\bin\Debug\KetnoiCSDL.pdb
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.csproj.AssemblyReference.cache
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.Form1.resources
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.Properties.Resources.resources
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.csproj.GenerateResource.cache
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.csproj.CoreCompileInputs.cache
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.exe
+C:\DEV\KetnoiCSDL\obj\Debug\KetnoiCSDL.pdb
